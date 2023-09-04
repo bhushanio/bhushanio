@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bhushanio
 - 👀 I’m interested in CYBER SECURITY 
 - 🌱 I’m currently learning MANY TECH THAT SUPPORTS THIS FIELDS
-- 💞️ I’m looking to collaborate on ...[NOT READY YET]
-- 📫 How to reach me ...[NOT READY YET]
+- 💞️ I’m looking to collaborate on Mondays
+- 📫 How to reach me >> Linkedin
 
 <!---
 bhushanio/bhushanio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
