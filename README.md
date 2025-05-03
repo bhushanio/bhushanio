@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhushanio
 - 👀 I’m interested in Cyber Security, Scripting, Cloud
-- 🌱 I’m currently learning MANY TECH THAT SUPPORTS THIS FIELDS
+- 🌱 I'm actively building my skills across several technologies aligned with this field
 - 💞️ I’m looking to collaborate on Mondays
 - 📫 How to reach me >> Linkedin
 
